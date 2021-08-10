@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Feb 03 22:41:58 CST 2021
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=bilibili.jar
+manifest.mergeall=true
+manifest.mainclass=com.luxsong.spider.main.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
